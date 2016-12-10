@@ -155,7 +155,7 @@ int main()
   
   while(!jump) {
 	 
-    scanf(%c,&variable); 
+    scanf("%c",&variable); 
 	if (variable==65)
     jump=1;		
 	  
